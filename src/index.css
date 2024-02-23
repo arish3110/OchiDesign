@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "fg";
+    src: url("./fonts/FoundersGroteskXCond-Bold.otf");
+}
